@@ -3,3 +3,4 @@ numpy >= 1.13
 wheel
 sphinx
 sphinx_rtd_theme
+opencv
